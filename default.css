@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Fami Sans";
+    src: url(Fami-Sans.otf);
+}
+
+@font-face {
+    font-family: "Fami Sans";
+    src: url(Fami-Sans-Bold.otf);
+    font-weight: bold;
+}
+
+@page {
+    size: letter;
+}
+
+* {
+    font-family: "Fami Sans";
+}
+
+body {
+    width: 90%;
+    margin: auto;
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        width: 50%;
+    }
+}
+
+h1 {
+    text-align: center;
+}
+
+img.furball {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: auto;
+    image-rendering: pixelated;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    padding-top: 16px;
+    vertical-align: top;
+}
+
+span {
+    display: block;
+}
+
+span.number {    
+    font-weight: bold;
+}
+
+span.name {
+    font-weight: bold;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+}
+

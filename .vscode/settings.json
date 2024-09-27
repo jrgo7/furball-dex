@@ -1,0 +1,10 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "\\.json$",
+                "cmd": "echo 'I am a .json file ${file}.'"
+            },
+        ]
+    }
+}
