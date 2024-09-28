@@ -1,22 +1,62 @@
 [
     {
         "NAME": "FURBALL",
+        "TYPE": "ARCTIC",
         "DESC": "The ordinary FURBALL is a penguin-duck combination, with a slight hint of cat. A real menace."
     },
     {
         "NAME": "DRUG DEALER FURBALL",
+        "TYPE": "CITY",
         "DESC": "This noble FURBALL sells drugs in MERCURY DRUGSTORE to earn a living and support his children."
     },
     {
         "NAME": "BRAINIAC FURBALL",
+        "TYPE": "CITY",
         "DESC": "Dangerously smart crazy scientist FURBALL that has experimented on his own body."
     },
     {
         "NAME": "RICH FURBALL",
+        "TYPE": "CITY",
         "DESC": "FURBALLs which have made it big in the business world through fair means or foul."
     },
     {
+        "NAME": "BEDTIME FURBALL",
+        "TYPE": "CITY",
+        "DESC": "Sleeps in the light, lives in the night, BEDTIME FURBALLs keep the world working right."
+    },
+    {
+        "NAME": "BEE FURBALL",
+        "TYPE": "FOREST",
+        "DESC": "BEE FURBALLs cannot talk; instead, they use flying dances to communicate with each other."
+    },
+    {
+        "NAME": "APPLE FURBALL",
+        "TYPE": "FOREST",
+        "DESC": "Falling from trees like raindrops from cloud, APPLE FURBALLs defend the FOREST from worms."
+    },
+    {
+        "NAME": "WAR FURBALL",
+        "TYPE": "FRONTIER",
+        "DESC": "Experienced war veterans; WAR FURBALLs actually despise war, and would never want another."
+    },
+    {
+        "NAME": "ANGEL FURBALL",
+        "TYPE": "MYTHICAL",
+        "DESC": "Goody-two-shoes FURBALLs that always seems to say what he thinks is right."
+    },
+    {
+        "NAME": "DEVIL FURBALL",
+        "TYPE": "MYTHICAL",
+        "DESC": "Baddy-two-shoes FURBALLs that always seems to say what he thinks is wrong."
+    },
+    {
+        "NAME": "JUDGE FURBALL",
+        "TYPE": "MYTHICAL",
+        "DESC": "The father of ANGEL and DEVIL FURBALLs casts judgements in criminal trials." 
+    },
+    {
         "NAME": "DIRTBALL",
-        "DESC": "This smaller-than-usual FURBALL hides in the dirt holes near the FUR-TANOOK BORDER."
+        "TYPE": "FRONTIER",
+        "DESC": "These smaller-than-usual FURBALLs plan ambushes from dirt holes at the FUR-TANOOK FRONTIER."
     }
 ]
