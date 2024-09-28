@@ -1,7 +1,7 @@
 [
     {
         "NAME": "FURBALL",
-        "TYPE": "ARCTIC",
+        "TYPE": "CITY",
         "DESC": "The ordinary FURBALL is a penguin-duck combination, with a slight hint of cat. A real menace."
     },
     {
@@ -40,9 +40,14 @@
         "DESC": "WAR FURBALLs are experienced veterans that actually despise war; they would never want another."
     },
     {
-        "NAME":" WI-FI FURBALL",
+        "NAME": "WI-FI FURBALL",
         "TYPE": "CITY",
         "DESC": "WI-FI FURBALLs connect the FURBALL NET together by amplifying space satellite signals."
+    },
+    {
+        "NAME": "BABY FURBALL",
+        "TYPE": "CITY",
+        "DESC": "They would do anything for their teddy. A pacifier and bottle keep them from crying."
     },
     {
         "NAME": "ANGEL FURBALL",
@@ -60,6 +65,11 @@
         "DESC": "The father of ANGEL and DEVIL FURBALLs casts judgements in criminal trials." 
     },
     {
+        "NAME": "EXPLOSION FURBALL",
+        "TYPE": "MYTHICAL",
+        "DESC": "A fan of a certain CRIMSON DEMON, he seeks to master only EXPLOSION MAGIC and nothing else."
+    },
+    {
         "NAME": "STEAMPUNK FURBALL",
         "TYPE": "FRONTIER",
         "DESC": "The INDUSTRIAL REVOLUTION inspired STEAMPUNK FURBALLs to use steam in unique ways."
@@ -73,5 +83,10 @@
         "NAME": "BUSY FURBALL",
         "TYPE": "CITY",
         "DESC": "Always busy and on the phone, BUSY FURBALLs hope to become a RICH FURBALL sooner or later."
+    },
+    {
+        "NAME": "SUN FURBALL",
+        "TYPE": "MYTHICAL",
+        "DESC": "He sacrificed his life to become a sun, allowing FURBALLs to see the color yellow."
     }
 ]

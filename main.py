@@ -25,7 +25,6 @@ TEMPLATE = """
             <td>
                 <span class="number">No.<%NUMBER%></span>
                 <span class="name"><%NAME%></span>
-                <span class="name"><%TYPE%> TYPE</span>
             </td>
         </tr>
         <tr>
