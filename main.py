@@ -8,10 +8,13 @@ BEGIN = """
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+    <audio autoplay loop src="pallet.mp3"></audio>
     <h1>THE FURBALL DEX 2</h1>
     <table>
+        <tbody>
 """
-END = """    </table>
+END = """   </tbody>
+    </table>
 </body>
 """
 TEMPLATE = """
@@ -20,8 +23,9 @@ TEMPLATE = """
                 <img src="<%IMAGE%>" class="furball">
             </td>
             <td>
-                <span class="number"><%NUMBER%></span>
+                <span class="number">No.<%NUMBER%></span>
                 <span class="name"><%NAME%></span>
+                <span class="name"><%TYPE%> TYPE</span>
             </td>
         </tr>
         <tr>

@@ -37,7 +37,12 @@
     {
         "NAME": "WAR FURBALL",
         "TYPE": "FRONTIER",
-        "DESC": "Experienced war veterans; WAR FURBALLs actually despise war, and would never want another."
+        "DESC": "WAR FURBALLs are experienced veterans that actually despise war; they would never want another."
+    },
+    {
+        "NAME":" WI-FI FURBALL",
+        "TYPE": "CITY",
+        "DESC": "WI-FI FURBALLs connect the FURBALL NET together by amplifying space satellite signals."
     },
     {
         "NAME": "ANGEL FURBALL",
@@ -55,8 +60,18 @@
         "DESC": "The father of ANGEL and DEVIL FURBALLs casts judgements in criminal trials." 
     },
     {
+        "NAME": "STEAMPUNK FURBALL",
+        "TYPE": "FRONTIER",
+        "DESC": "The INDUSTRIAL REVOLUTION inspired STEAMPUNK FURBALLs to use steam in unique ways."
+    },
+    {
         "NAME": "DIRTBALL",
         "TYPE": "FRONTIER",
         "DESC": "These smaller-than-usual FURBALLs plan ambushes from dirt holes at the FUR-TANOOK FRONTIER."
+    },
+    {
+        "NAME": "BUSY FURBALL",
+        "TYPE": "CITY",
+        "DESC": "Always busy and on the phone, BUSY FURBALLs hope to become a RICH FURBALL sooner or later."
     }
 ]

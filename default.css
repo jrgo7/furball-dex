@@ -37,13 +37,18 @@ img.furball {
     margin-left: auto;
     margin-right: auto;
     width: 120px;
-    height: auto;
+    height: 120px;
     image-rendering: pixelated;
+    border: 2px solid black;
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
+}
+
+tr.new_furball {
+    margin-top: 32px;
 }
 
 td {
@@ -53,6 +58,7 @@ td {
 
 span {
     display: block;
+    line-height: 32px;
 }
 
 span.number {    
@@ -60,9 +66,10 @@ span.number {
 }
 
 span.name {
-    font-weight: bold;
-    margin-top: 16px;
-    margin-bottom: 16px;
     margin-left: 16px;
 }
-
+span.desc {
+    margin-bottom: 16px;
+    padding-bottom: 16px;
+    border-bottom: 2px solid black;
+}
